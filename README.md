@@ -24,6 +24,10 @@ Identifier should not start with a number.
 
 ## Operators and statements
 
+Operators precedence
+
+
+
 
 
 
